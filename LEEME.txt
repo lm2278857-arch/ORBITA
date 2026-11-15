@@ -1,0 +1,39 @@
+﻿ORBITA - JUEGO ACTUAL
+
+PARA JUGAR
+Abre juego-mejorado.html con doble clic en un navegador moderno.
+El HTML contiene el juego completo: estilos, JavaScript, biblioteca 3D e imagenes.
+No necesitas instalar nada ni mantener las otras carpetas junto al HTML para jugar.
+Las fuentes NASA se abren en Internet cuando haces clic en sus enlaces.
+
+CONTENIDO
+- juego-mejorado.html: version actual, lista para jugar.
+- recursos/imagenes/: las imagenes y texturas del HTML actual, incluidos los logos NASA, Space Apps Cucuta, Colegio Antonio Narino y ROBOTIECAN proporcionados.
+- recursos/codigo/estilos.css: copia de los estilos incluidos en el HTML.
+- recursos/codigo/juego.js: copia de la programacion incluida en el HTML.
+- recursos/codigo/three.min.js: biblioteca que utiliza las escenas 3D.
+- datos/datos-nasa-orbita.json: datos de referencia y sus fuentes.
+- FUENTES-NASA.txt: enlaces NASA/JPL y alcance de los datos.
+- licencias/THREE-LICENSE.txt: licencia de la biblioteca Three.js.
+- INVENTARIO-SHA256.txt: lista de archivos con su huella de comprobacion.
+
+IMPORTANTE PARA EDITAR
+Las copias de recursos sirven para consultar y organizar el proyecto.
+El HTML utiliza sus propias copias incorporadas. Cambiar un archivo en recursos
+no modifica automaticamente el juego: debes integrar el cambio en el HTML.
+Las formas del cohete, la plataforma y otros elementos 3D se generan mediante
+codigo; no necesitan archivos de modelos 3D separados.
+
+GUARDADO
+Los ajustes, los disenos guardados y los resultados se almacenan en el navegador.
+Para guardar una copia de los datos de tu diseno usa Exportar JSON dentro del juego. La carpeta no incluye las partidas guardadas de tu navegador.
+
+PARA COMPARTIR
+Puedes compartir el HTML por separado o la carpeta completa comprimida en ZIP.
+Si recibes el ZIP, extraelo antes de abrir el HTML.
+
+COMENTARIOS DEL CODIGO
+El HTML, estilos.css y juego.js contienen comentarios explicativos en espanol.
+Busca ORBITA-DOC para recorrer las secciones documentadas: estructura, logos,
+datos NASA, calculos, escenas 3D, eventos, guardado e informe final.
+La biblioteca Three.js conserva su codigo y licencia originales.

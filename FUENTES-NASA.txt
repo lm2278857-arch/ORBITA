@@ -1,0 +1,17 @@
+﻿ORBITA - FUENTES DE LOS DATOS
+
+Referencias incluidas en el juego; fecha de consulta registrada: 2026-11-14
+
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html
+https://ssd.jpl.nasa.gov/astro_par.html
+https://science.nasa.gov/earth/facts/
+https://science.nasa.gov/moon/facts/
+https://science.nasa.gov/mars/facts/
+https://science.nasa.gov/earth/earth-observatory/the-blue-marble-2181/
+https://science.nasa.gov/3d-resources/mars/
+
+Estos enlaces documentan los datos fisicos utilizados. El juego incluye valores de referencia, no una conexion de telemetria en tiempo real.
+
+La masa, el costo y el rendimiento de los equipos, la cobertura y los eventos son supuestos educativos. Las animaciones usan escalas y tiempos ilustrativos. Las fuentes de datos no constituyen una licencia general para todas las imagenes.
